@@ -32,22 +32,22 @@
     {
       "name": "IT",
       "keywords": [
-        "Building computers.",
-        "Troubleshooting computer problems."
+        "Building computers",
+        "Troubleshooting computer problems"
       ]
     },
     {
       "name": "Gaming",
       "keywords": [ 
-         "e-sports.",
-         "Japanese games."
+         "e-sports",
+         "Japanese games"
       ]
     },
     {
       "name": "Sports",
       "keywords": [
-        "Basketball.",
-        "Bowling."
+        "Basketball",
+        "Bowling"
       ]
     }
   ],
