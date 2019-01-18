@@ -9,7 +9,7 @@ date: 2015-06-05
 labels:
   - Arduino
   - NOAA
-  - Linguistics
+  - Engineering
 summary: Created a homemade buoy that logged ocean temperature and wave data in a small group for a marine science summer program at Moanalua High School.
 ---
  <img class="ui image" src="/images/tupperware.jpg">
