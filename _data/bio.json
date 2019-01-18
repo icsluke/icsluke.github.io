@@ -73,7 +73,14 @@
         
       ]
     },
-    {"name": "
+    {
+      "name": "Multimedia Software",
+      "keywords": [
+        "Adobe Photoshop",
+        "Adobe Premiere",
+        "Open Broadcaster Software"
+       ]
+    }
   ],
   "education": [
     {
