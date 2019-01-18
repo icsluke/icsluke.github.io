@@ -13,7 +13,7 @@ labels:
 summary: My group analyzed public and private sector pamphlets, websites, and magazines on Dolphins and Tourism to find translations innapropriate to NOAA viewing guidelines.
 ---
 
-  <img class="ui medium right floated rounded image" src="/images/370proj4sc1.jpg">
+  <img class="ui image" src="/images/370proj4sc1.jpg">
 
 
 In this project for Japanese 370 at UH Manoa, we analyzed multiple types of websites, pamphlets, and magazines to find out what companies are saying about Dolphins in Japanese. We all analyzed sources from various companies such as Hawaii Tourism Authority and LeaLea. We found advertisements and images that suggest interaction with dolphins. This type of behavior is innapropriate and against NOAA viewing guidelines. Interacting with the dolphins could stress them out, and you don't know what type of behavior tourists may exibit with the dolphins.
