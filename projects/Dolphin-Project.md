@@ -8,6 +8,7 @@ permalink: projects/hi-dolphin-analysis
 date: 2018-12-05
 labels:
   - Japanese
+  - NOAA
   - Translation
   - Linguistics
 summary: My group analyzed public and private sector pamphlets, websites, and magazines on Dolphins and Tourism to find translations innapropriate to NOAA viewing guidelines.
