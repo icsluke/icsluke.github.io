@@ -14,7 +14,7 @@ summary: My group analyzed public and private sector pamphlets, websites, and ma
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="https://github.com/icsluke/icsluke.github.io/blob/master/images/370proj4sc1.PNG">
+  <img class="ui image" src="https://github.com/icsluke/icsluke.github.io/blob/master/images/370proj4sc1.jpg">
 </div>
 
 In this project for Japanese 370 at UH Manoa, we analyzed multiple types of websites, pamphlets, and magazines to find out what companies are saying about Dolphins in Japanese. We all analyzed sources from various companies such as Hawaii Tourism Authority and LeaLea. We found advertisements and images that suggest interaction with dolphins. This type of behavior is innapropriate and against NOAA viewing guidelines. Interacting with the dolphins could stress them out, and you don't know what type of behavior tourists may exibit with the dolphins.
