@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/noaabuoycon.jpg
-title: Hawaii Dolphin Pamphlet Translation Analysis
+title: NOAA Temperature Buoy
 permalink: projects/noaa-buoy-project
 # All dates must be YYYY-MM-DD format!
 date: 2015-06-05
