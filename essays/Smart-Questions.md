@@ -15,7 +15,9 @@ For years I have laughed at silly questions and answers people ask over the inte
 ### Are bytes real?
 We all can say bytes are real because we learned about them through various ICS courses, many scientists confirmed the existence of the byte through studies, and we have created bytes through our programs and were able to see them through an interface. This user on stack overflow questioned if bytes are real saying
 
-> "Everyone knows that byte is 8 bits... But where exactly is it specified? I mean, phisically you don't really use bytes, but bits."
+> *"Everyone knows that byte is 8 bits... But where exactly is it specified? I mean, phisically you don't really use bytes, but bits."*
+
+
 
 
 
