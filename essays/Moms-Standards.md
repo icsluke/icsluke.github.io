@@ -17,7 +17,7 @@ labels:
 ### An ever evolving coding standard.
   ESLint is my mother, coding is my dirty dish, IntelliJ is my kitchen sink. There are many ways to code and achieve your goal, whether it's calculating sums of an array or checking if the age is in the supplied threshold. They all can be writen and working, but if you don't follow the steps and format, it may anger your boss or professor. Your professor will say "I told you, you have to use two spaces instead of a tab, it's how I want you to do it." I hold back my inner thoughts as Jason Leigh taught me that tabbing is my spacing method I learned in my first year of Java at UH Manoa. Old habits die hard because today I use double spaces after new lines.
   
-  <img class="ui center medium circular floated image" src="https://raw.githubusercontent.com/icsluke/icsluke.github.io/master/images/kitchensink.png"> 
+  <img class="ui small circular floated image" src="https://raw.githubusercontent.com/icsluke/icsluke.github.io/master/images/kitchensink.png"> 
   
   In the end, I always strive for the checkmark so I don't get scolded by my parents for doing the dishes wrong or getting a bad grade. Formatting and following the strict rules helps create a more beautiful code to read, and efficient way to clean the dishes. 
 
