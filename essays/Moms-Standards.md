@@ -17,4 +17,4 @@ labels:
   
   In the end, I always strive for the checkmark so I don't get scolded by my parents for doing the dishes wrong or getting a bad grade. Formatting and following the strict rules helps create a more beautiful code to read, and efficient way to clean the dishes. 
 
-<img class="ui medium circular floated image" src="https://raw.githubusercontent.com/icsluke/icsluke.github.io/master/images/kitchensink.png">
+<img class="ui center medium circular floated image" src="https://raw.githubusercontent.com/icsluke/icsluke.github.io/master/images/kitchensink.png">
