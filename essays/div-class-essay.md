@@ -6,9 +6,9 @@ title: A Natural Progression
 date: 2019-02-07
 labels:
   - Software Engineering
+  - Web Development
   - Learning
-  - ESLint
-  - IntelliJ
+  - Semantic UI
 ---
 
 ### Making my way into the website world.
