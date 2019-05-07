@@ -22,7 +22,7 @@ summary: Team Akamai Nook developed a website that allows users to find study sp
 
   Akamai Nook was created to help users find and share their own study spots. There are multiple functionalities to our site. The main pages are the landing page, Nooks page, Add Nooks page, profile page, login/signup page, and admin page. The landing page is what users are greeted by. It briefly describes our project and lists 3 of our popular study spots called nooks. There is a list of all the nooks added in the Nooks page. A Nook card has an image of the Nook, the name of the Nook, operating hours, description, and tags chosen. To add a nook you would have to signup for a profile, you are then allowed to add nooks and edit or delete nooks you've added. There is an admin page created for specific users called admins, which can edit or delete any nook hosted on the website. 
   
-  A more detailed description on the pages, steps we took to build the site, and user and developer guide can be found on our [github.io]("https://akamainook.github.io/") page. I strongly encourage you to take a look, it has tons of information to read up on.
+  A more detailed description on the pages, steps we took to build the site, and user and developer guide can be found on our [github.io](https://akamainook.github.io/) page. I strongly encourage you to take a look, it has tons of information to read up on.
   
 ### My responsibilities and features
 
