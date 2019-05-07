@@ -26,6 +26,28 @@ summary: Team Akamai Nook developed a website that allows users to find study sp
   
 ### My responsibilities and features
 
-  For Akamai Nook I did most of the mockup and layout for the website to build on. My main features were the Nooks page, My Nooks page, Admin Page, Navigation Bar, and Footer. Most of my time was put into creating data that could be added, edited, and deleted by the correct users. Using MongoDB with meteor really pushed my skills to the tests, and I learned a lot through numerous failures. My main learning point was understanding schemas and subscriptions to store and show data to who I decide. After finishing most of my code for the site, I updated the [github.io]("akamainook.github.io") page to reflect the new changes to the site and rewrote the guides for the new features. 
+  For Akamai Nook I did most of the mockup and layout for the website to build on. My main features were the Nooks page, My Nooks page, Admin Page, Navigation Bar, and Footer. Most of my time was put into creating data that could be added, edited, and deleted by the correct users. Using MongoDB with meteor really pushed my skills to the tests, and I learned a lot through numerous failures. My main learning point was understanding schemas and subscriptions to store and show data to who I decide. Another was learning to compensate for other group member's design tactics. One example was me not realizing another group member changed the way a class in a css file worked. I was scratching my head for hours until I realized that a class I was using was changed in the css file without me noticing. After finishing most of my code for the site, I updated the [github.io]("akamainook.github.io") page to reflect the new changes to the site and rewrote the guides for the new features. 
   
+### Screenshots
+
+<a href="https://akamainook.github.io/#7" class="ui medium image">
+  <img src="images/landingfullm3.png">
+</a>
+
+<a href="https://akamainook.github.io/#8" class="ui medium image">
+  <img src="images/listnooksmapm3.png">
+</a>
+
+<a href="https://akamainook.github.io/#11" class="ui medium image">
+  <img src="images/profilem3.png">
+</a>
+
+<a href="https://akamainook.github.io/#13" class="ui medium image">
+  <img src="images/adminm3.png">
+</a>
+
+<a href="https://akamainook.github.io/#9" class="ui medium image">
+  <img src="images/loginm3.png">
+</a>
   
+[Link to Github.io page](akamainook.github.io)
