@@ -15,3 +15,4 @@ labels:
 summary: Team Akamai Nook developed a website that allows users to find study spots and share their own spots.
 ---
 
+Akamai Nook is a project me and my classmates Andrew Yagin and Jiajun Kang developed to help people find study spots.
