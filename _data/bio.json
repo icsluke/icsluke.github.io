@@ -6,7 +6,7 @@
     "email": "bulosanl@hawaii.edu",
     "phone": "",
     "website": "https://icsluke.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020.",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
       "postalCode": "96819",
@@ -58,7 +58,13 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "CSS",
+        "SemanticUI",
+        "MongoDB",
+        "Meteor",
+        "ReactJS"
       ]
     },
     {
