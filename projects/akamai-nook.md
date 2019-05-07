@@ -5,7 +5,7 @@ image: images/akamainook.png
 title: Akamai Nook - A Study Spot Project
 permalink: projects/akamai-nook
 # All dates must be YYYY-MM-DD format!
-date: 2019-4-06
+date: 2019-04-06
 labels:
   - Meteor
   - ReactJS
