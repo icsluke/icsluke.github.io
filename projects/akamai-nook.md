@@ -31,23 +31,23 @@ summary: Team Akamai Nook developed a website that allows users to find study sp
 ### Screenshots
 
 <a href="https://akamainook.github.io/#7" class="ui medium image">
-  <img src="images/landingfullm3.png">
+  <img src="../images/landingfullm3.png">
 </a>
 
 <a href="https://akamainook.github.io/#8" class="ui medium image">
-  <img src="images/listnooksmapm3.png">
+  <img src="../images/listnooksmapm3.png">
 </a>
 
 <a href="https://akamainook.github.io/#11" class="ui medium image">
-  <img src="images/profilem3.png">
+  <img src="../images/profilem3.png">
 </a>
 
 <a href="https://akamainook.github.io/#13" class="ui medium image">
-  <img src="images/adminm3.png">
+  <img src="../images/adminm3.png">
 </a>
 
 <a href="https://akamainook.github.io/#9" class="ui medium image">
-  <img src="images/loginm3.png">
+  <img src="../images/loginm3.png">
 </a>
   
 [Link to Github.io page](akamainook.github.io)
