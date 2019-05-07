@@ -26,7 +26,7 @@ summary: Team Akamai Nook developed a website that allows users to find study sp
   
 ### My responsibilities and features
 
-  For Akamai Nook I did most of the mockup and layout for the website to build on. My main features were the Nooks page, My Nooks page, Admin Page, Navigation Bar, and Footer. Most of my time was put into creating data that could be added, edited, and deleted by the correct users. Using MongoDB with meteor really pushed my skills to the tests, and I learned a lot through numerous failures. My main learning point was understanding schemas and subscriptions to store and show data to who I decide. Another was learning to compensate for other group member's design tactics. One example was me not realizing another group member changed the way a class in a css file worked. I was scratching my head for hours until I realized that a class I was using was changed in the css file without me noticing. After finishing most of my code for the site, I updated the [github.io]("https://akamainook.github.io/") page to reflect the new changes to the site and rewrote the guides for the new features. 
+  For Akamai Nook I did most of the mockup and layout for the website to build on. My main features were the Nooks page, My Nooks page, Admin Page, Navigation Bar, and Footer. Most of my time was put into creating data that could be added, edited, and deleted by the correct users. Using MongoDB with meteor really pushed my skills to the tests, and I learned a lot through numerous failures. My main learning point was understanding schemas and subscriptions to store and show data to who I decide. Another was learning to compensate for other group member's design tactics. One example was me not realizing another group member changed the way a class in a css file worked. I was scratching my head for hours until I realized that a class I was using was changed in the css file without me noticing. After finishing most of my code for the site, I updated the [github.io](https://akamainook.github.io/) page to reflect the new changes to the site and rewrote the guides for the new features. 
   
 ### Screenshots
 
@@ -50,4 +50,4 @@ summary: Team Akamai Nook developed a website that allows users to find study sp
   <img src="../images/loginm3.png">
 </a>
   
-[Link to Github.io page]("https://akamainook.github.io/")
+[Link to Github.io page](https://akamainook.github.io/)
