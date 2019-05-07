@@ -35,7 +35,7 @@ summary: Team Akamai Nook developed a website that allows users to find study sp
 </a>
 
 <a href="https://akamainook.github.io/#8" class="ui medium image">
-  <img src="../images/listnooksmapm3.png">
+  <img src="../images/listnookmapm3.png">
 </a>
 
 <a href="https://akamainook.github.io/#11" class="ui medium image">
