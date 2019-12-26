@@ -6,7 +6,7 @@
     "email": "bulosanl@hawaii.edu",
     "phone": "",
     "website": "https://icsluke.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall 2020.",
     "location": {
       "address": "",
       "postalCode": "96819",
@@ -137,6 +137,19 @@
       "highlights": [
         "Translated for NOAA and “むろと廃校水族館”(Muroto School Aquarium)",
         "Certificates of recognition from NOAA available upon request"
+      ]
+    }
+    
+    {
+      "organization": "Kalakaua Middle School TSMI Club Computer Science Innovation Program",
+      "website": "",
+      "position": "Student Instructor",
+      "startDate": "2019,
+      "endDate": "Present",
+      "summary": "Create a computer science curriculum for public middle schools and teach computer science to the students.",
+      "highlights": [
+        "Collaborate with fellow student instructors to make lesson plans, presentations, and activities for students.",
+        "Teach programming and computer science fundamentals as a head instructor that rotates every few weeks."
       ]
     }
   ],
